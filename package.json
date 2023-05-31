@@ -1,0 +1,28 @@
+{
+  "name": "failureproxy",
+  "version": "1.0.0",
+  "description": "Test proxy using toxy",
+  "main": "failureproxy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kjelloe/failureproxy.git"
+  },
+  "keywords": [
+    "node",
+    "test",
+    "proxy",
+    "toxy"
+  ],
+  "author": "Kjell E",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kjelloe/failureproxy/issues"
+  },
+  "homepage": "https://github.com/kjelloe/failureproxy#readme",
+  "dependencies": {
+    "toxy": "^0.3.16"
+  }
+}
